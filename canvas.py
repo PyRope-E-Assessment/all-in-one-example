@@ -11,7 +11,6 @@ def on_mouse_down(x, y):
     global drawing
     global position
 
-    print('sdaf')
     drawing = True
     position = (x, y)
     
